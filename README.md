@@ -106,9 +106,9 @@ Change "stratumHost": "192.168.0.200", to your IP or DNS in file config.json:
     "ipv4bits": 16,
     "ipv6bits": 16,
     
-     "defaultCoin": "ravencoin",
+     "defaultCoin": "sato",
     
-    "poollogo": "https://zelcash.github.io/zeltrez.io/images/logos/Ravencoin.svg",
+    "poollogo": "https://satoex.com/coins/satox.png",
     
     "discordtwitterfacebook": "Join our #mining channel on Discord: <a href='https://discord.gg/vzcbVNW' target='_blank'>https://discord.gg/vzcbVNW</a>",
     
