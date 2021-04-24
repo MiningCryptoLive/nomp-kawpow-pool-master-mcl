@@ -79,7 +79,7 @@ Other helpfull commands.
     sudo apt install git -y
     cd ~
     git config --global http.https://gopkg.in.followRedirects true
-    git clone https://github.com/DirtyHarryDev/nomp-kawpow-pool.git
+    git clone https://github.com/miningpirate/nomp-kawpow-pool-master.git
     cd nomp-kawpow-pool/
     chmod +x install.sh
     ./install.sh
